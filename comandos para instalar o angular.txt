@@ -1,0 +1,9 @@
+npm install -g @angular/cli
+mkdir proj2505
+cd proj2505
+ng new site (y, css)
+cd site
+ng add @angular/material(y,y...)
+code .
+ng serve -o
+(se bugar ng serve --port 3010 -o)
